@@ -15,8 +15,7 @@ These datasets were merged to create a single final dataset for analysis.
 
 ## 🛠️ Tools Used
 - Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
+- Pandas, NumPy    
 - SQLite  
 
 ---
@@ -37,8 +36,6 @@ The Jupyter Notebook includes:
 
 ---
 
-## 📝 Note
-This work was completed independently as part of the technical evaluation and reflects my learning and analytical approach.
 
 Thank you for reviewing my submission.
 
